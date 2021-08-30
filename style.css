@@ -1,0 +1,21 @@
+.body_background {
+    background-image:
+      url("https://vivadifferences.com/wp-content/uploads/2020/01/Aqua-Color.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: 0D47A1;
+    font-size: 40px;
+  }
+  
+  #myCanvas {
+    border-width: 10px;
+    background-color: #49f0aa;
+    border-style: ridge;
+  }
+  
+  span {
+    font-size: 20px;
+  }
